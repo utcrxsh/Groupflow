@@ -1,0 +1,14 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is a node server for our application",
+  "main": "index.js",
+  "scripts": {
+    "npm start": "nodemon index.js"
+  },
+  "author": "Utkarsh",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
